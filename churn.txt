@@ -1,12 +1,14 @@
 newc
 
 
-
-ok
-
-yes
-
 nn
 nn
 
 uu
+
+kk
+kk
+kk
+ll
+kk
+ll
