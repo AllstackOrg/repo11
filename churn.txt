@@ -1,10 +1,6 @@
 newc
 
 
-nn
-nn
-
-uu
 
 kk
 kk
@@ -12,3 +8,8 @@ kk
 ll
 kk
 ll
+
+s
+s
+d
+f
