@@ -39,7 +39,7 @@ jobs:
         pytest
 
   another-job:
-
+    needs: build
     runs-on: ubuntu-latest
 
     steps:
