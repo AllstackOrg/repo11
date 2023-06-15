@@ -1,4 +1,5 @@
-读写汉字 - 学中文
+import time
 
-"John Smith, Prince2®,PMP®, CSM� �, ITIL®, ISTQB®" <jon.smith@example.org>
+a = "读写汉字 - 学中文"
+b = "John Smith, Prince2®,PMP®, CSM� �, ITIL®, ISTQB®"
 
