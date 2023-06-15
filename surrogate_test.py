@@ -1,6 +1,6 @@
-\ud83c\n\n\uD83C\uDD93\n
+#\ud83c\n\n\uD83C\uDD93\n
 
-
+"""
 $examples = array(
     'Valid ASCII' => "a",
     'Valid 2 Octet Sequence' => "\xc3\xb1",
@@ -16,3 +16,4 @@ $examples = array(
     'Valid 5 Octet Sequence (but not Unicode!)' => "\xf8\xa1\xa1\xa1\xa1",
     'Valid 6 Octet Sequence (but not Unicode!)' => "\xfc\xa1\xa1\xa1\xa1\xa1",
 );
+"""
